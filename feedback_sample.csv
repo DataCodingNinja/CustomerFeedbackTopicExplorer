@@ -1,0 +1,1001 @@
+id,text,rating,source,category
+1,Pricing is too high for sorting feature.,4,web,pricing
+2,I keep getting an error on profile update screen.,3,email,bug
+3,The font size is too small on integration with serviceX pages.,3,email,ux
+4,The font size is too small on sorting pages.,3,chat,ux
+5,"I'd love a feature that can dark mode. Also, Please add uploading photos to improve recently.",2,web,feature
+6,Pricing is too high for dark mode feature.,3,email,pricing
+7,Navigation is hard; I expected two-factor auth to be easier.,1,mobile,ux
+8,"The search button doesn't work, it just recently.",4,web,bug
+9,The new layout is confusing and I can't uploading photos.,1,web,ux
+10,"Navigation is hard; I expected checkout to be easier. Also, Excellent support when I uploading photos.",5,mobile,ux
+11,I keep getting an error on payments screen.,3,email,bug
+12,"Excellent support when I logging in. Also, Pricing is too high for filters feature.",1,email,praise
+13,"The payments button doesn't work, it just recently. Also, App crashes when I try to search.",3,email,bug
+14,Great experience with sync — thank you!,4,email,praise
+15,The new layout is confusing and I can't uploading photos.,1,web,ux
+16,"Loving the app, payments works great!",5,mobile,praise
+17,Need support for profile update integrations.,3,chat,feature
+18,"The search button doesn't work, it just without errors.",4,mobile,bug
+19,"Pricing is too high for filters feature. Also, The font size is too small on two-factor auth pages.",5,chat,pricing
+20,I'd love a feature that can filters.,4,email,feature
+21,The new layout is confusing and I can't uploading photos.,2,chat,ux
+22,Navigation is hard; I expected search to be easier.,1,chat,ux
+23,App crashes when I try to sharing.,3,email,bug
+24,The new layout is confusing and I can't two-factor auth.,1,web,ux
+25,"Please add sharing to improve every time. Also, Need support for uploading photos integrations.",3,mobile,feature
+26,Please add notifications to improve every time.,1,email,feature
+27,"I keep getting an error on dark mode screen. Also, No comment, just checking in.",4,mobile,bug
+28,I have a general question about sorting.,1,chat,other
+29,The font size is too small on signup pages.,5,email,ux
+30,I have a general question about integration with serviceX.,2,chat,other
+31,"Loving the app, sorting works great!",4,mobile,praise
+32,Not sure how to use the app for sync.,4,web,other
+33,"The font size is too small on integration with serviceX pages. Also, I was charged twice when I checkout.",2,web,ux
+34,Subscription plans are confusing; I want uploading photos option.,5,mobile,pricing
+35,Great experience with uploading photos — thank you!,5,mobile,praise
+36,"The signup button doesn't work, it just every time.",3,mobile,bug
+37,"The sharing button doesn't work, it just every time. Also, App crashes when I try to two-factor auth.",1,mobile,bug
+38,App crashes when I try to profile update.,4,web,bug
+39,App crashes when I try to signup.,2,mobile,bug
+40,I keep getting an error on dark mode screen.,1,email,bug
+41,I have a general question about profile update.,3,chat,other
+42,"No comment, just checking in.",1,mobile,other
+43,I'd love a feature that can two-factor auth.,4,web,feature
+44,"Please add profile update to improve quickly. Also, Great experience with signup — thank you!",4,chat,feature
+45,"Loving the app, payments works great! Also, The two-factor auth button doesn't work, it just without errors.",4,web,praise
+46,The font size is too small on uploading photos pages.,4,mobile,ux
+47,"App crashes when I try to sorting. Also, No comment, just checking in.",4,web,bug
+48,"Subscription plans are confusing; I want payments option. Also, Excellent support when I signup.",3,chat,pricing
+49,I was charged twice when I notifications.,4,web,pricing
+50,I keep getting an error on signup screen.,4,mobile,bug
+51,Please add uploading photos to improve every time.,4,chat,feature
+52,Excellent support when I sharing.,2,mobile,praise
+53,"Loving the app, dark mode works great!",3,mobile,praise
+54,"I keep getting an error on signup screen. Also, I was charged twice when I sorting.",4,web,bug
+55,Not sure how to use the app for sharing.,2,web,other
+56,"Need support for notifications integrations. Also, The profile update button doesn't work, it just every time.",1,mobile,feature
+57,Subscription plans are confusing; I want profile update option.,1,email,pricing
+58,"Not sure how to use the app for uploading photos. Also, I'd love a feature that can profile update.",1,mobile,other
+59,The font size is too small on checkout pages.,1,email,ux
+60,"The new layout is confusing and I can't sorting. Also, Great experience with integration with serviceX — thank you!",1,mobile,ux
+61,"The dark mode button doesn't work, it just without errors.",3,email,bug
+62,App crashes when I try to sync.,1,mobile,bug
+63,Navigation is hard; I expected checkout to be easier.,2,web,ux
+64,"App crashes when I try to uploading photos. Also, Pricing is too high for dark mode feature.",5,web,bug
+65,"The payments button doesn't work, it just every time. Also, The font size is too small on logging in pages.",4,email,bug
+66,I was charged twice when I uploading photos.,2,web,pricing
+67,"Not sure how to use the app for filters. Also, The font size is too small on profile update pages.",2,mobile,other
+68,"Loving the app, sync works great!",1,mobile,praise
+69,I keep getting an error on uploading photos screen.,4,web,bug
+70,Great experience with notifications — thank you!,4,email,praise
+71,"I have a general question about dark mode. Also, Not sure how to use the app for integration with serviceX.",4,mobile,other
+72,Excellent support when I signup.,5,web,praise
+73,"Great experience with sharing — thank you! Also, I have a general question about logging in.",3,web,praise
+74,App crashes when I try to notifications.,3,mobile,bug
+75,Not sure how to use the app for search.,2,email,other
+76,I have a general question about search.,4,email,other
+77,Excellent support when I profile update.,5,chat,praise
+78,Excellent support when I search.,5,web,praise
+79,"The logging in button doesn't work, it just without errors.",3,chat,bug
+80,"The profile update button doesn't work, it just without errors.",1,email,bug
+81,Need support for integration with serviceX integrations.,1,web,feature
+82,App crashes when I try to logging in.,4,email,bug
+83,"Please add integration with serviceX to improve sometimes. Also, Subscription plans are confusing; I want sharing option.",5,chat,feature
+84,"The sharing button doesn't work, it just without errors.",4,chat,bug
+85,Subscription plans are confusing; I want signup option.,4,web,pricing
+86,"The dark mode button doesn't work, it just recently. Also, No comment, just checking in.",5,mobile,bug
+87,App crashes when I try to sharing.,3,email,bug
+88,"The profile update button doesn't work, it just recently.",3,email,bug
+89,"The dark mode button doesn't work, it just recently. Also, Please add sharing to improve every time.",4,web,bug
+90,I'd love a feature that can signup.,3,mobile,feature
+91,Subscription plans are confusing; I want profile update option.,4,mobile,pricing
+92,"App crashes when I try to two-factor auth. Also, Pricing is too high for uploading photos feature.",3,email,bug
+93,Please add sharing to improve without errors.,2,web,feature
+94,Navigation is hard; I expected checkout to be easier.,4,mobile,ux
+95,The font size is too small on filters pages.,4,mobile,ux
+96,Need support for payments integrations.,1,mobile,feature
+97,Please add integration with serviceX to improve sometimes.,5,web,feature
+98,Great experience with search — thank you!,4,chat,praise
+99,"I'd love a feature that can integration with serviceX. Also, Great experience with sync — thank you!",1,chat,feature
+100,Need support for dark mode integrations.,2,web,feature
+101,"No comment, just checking in.",3,mobile,other
+102,Excellent support when I search.,5,email,praise
+103,The new layout is confusing and I can't dark mode.,5,web,ux
+104,I keep getting an error on search screen.,5,chat,bug
+105,The font size is too small on dark mode pages.,1,web,ux
+106,Great experience with sorting — thank you!,4,chat,praise
+107,Subscription plans are confusing; I want sync option.,3,web,pricing
+108,"Please add notifications to improve sometimes. Also, Excellent support when I notifications.",4,web,feature
+109,"The font size is too small on filters pages. Also, Navigation is hard; I expected integration with serviceX to be easier.",1,email,ux
+110,"I'd love a feature that can sorting. Also, Great experience with sorting — thank you!",5,email,feature
+111,"The payments button doesn't work, it just without errors.",2,chat,bug
+112,"The search button doesn't work, it just quickly.",4,web,bug
+113,"Loving the app, notifications works great! Also, The new layout is confusing and I can't sync.",5,chat,praise
+114,"No comment, just checking in. Also, Need support for sharing integrations.",2,chat,other
+115,Excellent support when I integration with serviceX.,1,web,praise
+116,The font size is too small on checkout pages.,4,chat,ux
+117,App crashes when I try to uploading photos.,2,email,bug
+118,I keep getting an error on payments screen.,3,mobile,bug
+119,The new layout is confusing and I can't checkout.,4,web,ux
+120,The new layout is confusing and I can't sorting.,2,chat,ux
+121,"No comment, just checking in. Also, Excellent support when I notifications.",1,mobile,other
+122,I keep getting an error on filters screen.,3,email,bug
+123,App crashes when I try to search.,1,web,bug
+124,Please add sharing to improve recently.,3,email,feature
+125,"Navigation is hard; I expected notifications to be easier. Also, Not sure how to use the app for notifications.",5,email,ux
+126,I keep getting an error on integration with serviceX screen.,1,web,bug
+127,I have a general question about sorting.,1,chat,other
+128,Navigation is hard; I expected checkout to be easier.,3,email,ux
+129,The font size is too small on profile update pages.,5,chat,ux
+130,"The checkout button doesn't work, it just sometimes.",2,chat,bug
+131,"I keep getting an error on filters screen. Also, The sharing button doesn't work, it just quickly.",4,mobile,bug
+132,I keep getting an error on filters screen.,4,mobile,bug
+133,"The font size is too small on filters pages. Also, The font size is too small on sync pages.",1,email,ux
+134,App crashes when I try to logging in.,1,chat,bug
+135,Please add payments to improve every time.,1,web,feature
+136,Need support for logging in integrations.,3,chat,feature
+137,I was charged twice when I payments.,3,mobile,pricing
+138,"The sync button doesn't work, it just sometimes.",5,mobile,bug
+139,"Need support for integration with serviceX integrations. Also, Great experience with sync — thank you!",4,chat,feature
+140,I keep getting an error on payments screen.,3,mobile,bug
+141,I'd love a feature that can two-factor auth.,1,mobile,feature
+142,"Navigation is hard; I expected uploading photos to be easier. Also, App crashes when I try to profile update.",3,web,ux
+143,Navigation is hard; I expected profile update to be easier.,3,chat,ux
+144,"Pricing is too high for checkout feature. Also, Subscription plans are confusing; I want search option.",4,mobile,pricing
+145,Excellent support when I sync.,5,mobile,praise
+146,"I was charged twice when I logging in. Also, I was charged twice when I dark mode.",4,mobile,pricing
+147,"App crashes when I try to uploading photos. Also, The font size is too small on signup pages.",5,chat,bug
+148,Pricing is too high for filters feature.,3,email,pricing
+149,"I have a general question about profile update. Also, I keep getting an error on dark mode screen.",4,chat,other
+150,I keep getting an error on logging in screen.,3,web,bug
+151,"App crashes when I try to sorting. Also, The new layout is confusing and I can't search.",1,web,bug
+152,Excellent support when I filters.,5,mobile,praise
+153,App crashes when I try to payments.,2,mobile,bug
+154,"The logging in button doesn't work, it just every time.",2,email,bug
+155,The font size is too small on integration with serviceX pages.,3,mobile,ux
+156,"The font size is too small on search pages. Also, I'd love a feature that can integration with serviceX.",3,email,ux
+157,Excellent support when I payments.,4,mobile,praise
+158,"Navigation is hard; I expected notifications to be easier. Also, The new layout is confusing and I can't sync.",3,mobile,ux
+159,"The font size is too small on signup pages. Also, Not sure how to use the app for checkout.",2,email,ux
+160,Navigation is hard; I expected search to be easier.,4,email,ux
+161,"Pricing is too high for sync feature. Also, Subscription plans are confusing; I want profile update option.",5,chat,pricing
+162,"The font size is too small on dark mode pages. Also, App crashes when I try to dark mode.",1,chat,ux
+163,"I'd love a feature that can payments. Also, Pricing is too high for profile update feature.",5,chat,feature
+164,"I keep getting an error on search screen. Also, The new layout is confusing and I can't signup.",1,email,bug
+165,"I keep getting an error on sharing screen. Also, I have a general question about logging in.",1,mobile,bug
+166,"The integration with serviceX button doesn't work, it just without errors.",5,web,bug
+167,The new layout is confusing and I can't notifications.,5,chat,ux
+168,Excellent support when I search.,3,mobile,praise
+169,Please add checkout to improve recently.,1,mobile,feature
+170,The new layout is confusing and I can't sharing.,2,web,ux
+171,Great experience with logging in — thank you!,5,web,praise
+172,Navigation is hard; I expected profile update to be easier.,3,chat,ux
+173,Excellent support when I uploading photos.,4,chat,praise
+174,App crashes when I try to signup.,1,chat,bug
+175,App crashes when I try to integration with serviceX.,5,chat,bug
+176,The new layout is confusing and I can't notifications.,5,email,ux
+177,"The search button doesn't work, it just recently.",2,web,bug
+178,"I'd love a feature that can profile update. Also, I'd love a feature that can profile update.",1,mobile,feature
+179,The font size is too small on profile update pages.,3,email,ux
+180,I have a general question about dark mode.,2,mobile,other
+181,I have a general question about checkout.,1,web,other
+182,Navigation is hard; I expected payments to be easier.,3,chat,ux
+183,Excellent support when I sorting.,5,mobile,praise
+184,I'd love a feature that can notifications.,5,mobile,feature
+185,"I'd love a feature that can signup. Also, Great experience with notifications — thank you!",3,web,feature
+186,Need support for profile update integrations.,1,chat,feature
+187,Need support for payments integrations.,5,email,feature
+188,Navigation is hard; I expected uploading photos to be easier.,4,web,ux
+189,"The dark mode button doesn't work, it just sometimes.",3,mobile,bug
+190,"Loving the app, payments works great!",3,chat,praise
+191,I have a general question about filters.,5,email,other
+192,"I keep getting an error on profile update screen. Also, The font size is too small on sync pages.",4,chat,bug
+193,Excellent support when I integration with serviceX.,2,web,praise
+194,"The filters button doesn't work, it just without errors.",2,web,bug
+195,Not sure how to use the app for dark mode.,3,email,other
+196,The font size is too small on sync pages.,4,mobile,ux
+197,"Need support for sharing integrations. Also, I have a general question about search.",4,email,feature
+198,Please add sharing to improve sometimes.,5,chat,feature
+199,Not sure how to use the app for two-factor auth.,3,web,other
+200,I keep getting an error on uploading photos screen.,4,email,bug
+201,"I'd love a feature that can dark mode. Also, I'd love a feature that can logging in.",1,chat,feature
+202,The font size is too small on payments pages.,4,chat,ux
+203,Navigation is hard; I expected two-factor auth to be easier.,4,mobile,ux
+204,Great experience with sorting — thank you!,4,email,praise
+205,Navigation is hard; I expected two-factor auth to be easier.,1,chat,ux
+206,Need support for filters integrations.,4,chat,feature
+207,"Pricing is too high for notifications feature. Also, No comment, just checking in.",4,mobile,pricing
+208,Need support for payments integrations.,2,web,feature
+209,"The sync button doesn't work, it just sometimes.",4,email,bug
+210,"Not sure how to use the app for sorting. Also, I'd love a feature that can sharing.",2,email,other
+211,App crashes when I try to signup.,4,web,bug
+212,"I'd love a feature that can sync. Also, App crashes when I try to integration with serviceX.",2,mobile,feature
+213,"The filters button doesn't work, it just without errors.",4,web,bug
+214,"Subscription plans are confusing; I want payments option. Also, Not sure how to use the app for uploading photos.",4,email,pricing
+215,App crashes when I try to dark mode.,5,chat,bug
+216,"Need support for two-factor auth integrations. Also, I was charged twice when I profile update.",1,email,feature
+217,"Need support for filters integrations. Also, Loving the app, signup works great!",4,email,feature
+218,"Need support for filters integrations. Also, The new layout is confusing and I can't dark mode.",1,mobile,feature
+219,App crashes when I try to filters.,4,mobile,bug
+220,I'd love a feature that can payments.,5,web,feature
+221,I have a general question about signup.,1,mobile,other
+222,The font size is too small on sync pages.,2,mobile,ux
+223,I was charged twice when I notifications.,2,web,pricing
+224,Navigation is hard; I expected filters to be easier.,3,web,ux
+225,"The profile update button doesn't work, it just quickly.",1,mobile,bug
+226,"Need support for signup integrations. Also, I was charged twice when I checkout.",1,email,feature
+227,"I have a general question about logging in. Also, The new layout is confusing and I can't search.",2,mobile,other
+228,Excellent support when I notifications.,4,web,praise
+229,"Loving the app, payments works great!",5,web,praise
+230,"App crashes when I try to sorting. Also, I'd love a feature that can signup.",4,chat,bug
+231,"Excellent support when I logging in. Also, I have a general question about filters.",5,email,praise
+232,"Excellent support when I checkout. Also, Loving the app, sync works great!",5,web,praise
+233,Navigation is hard; I expected uploading photos to be easier.,4,web,ux
+234,"I keep getting an error on uploading photos screen. Also, Great experience with two-factor auth — thank you!",3,mobile,bug
+235,Please add sync to improve recently.,2,mobile,feature
+236,"I keep getting an error on signup screen. Also, No comment, just checking in.",3,web,bug
+237,I'd love a feature that can uploading photos.,2,email,feature
+238,"Please add integration with serviceX to improve without errors. Also, Subscription plans are confusing; I want checkout option.",3,chat,feature
+239,App crashes when I try to two-factor auth.,5,web,bug
+240,Please add notifications to improve sometimes.,3,mobile,feature
+241,"Subscription plans are confusing; I want payments option. Also, The new layout is confusing and I can't sync.",5,mobile,pricing
+242,"I keep getting an error on uploading photos screen. Also, The font size is too small on payments pages.",4,chat,bug
+243,"App crashes when I try to profile update. Also, Not sure how to use the app for sharing.",5,chat,bug
+244,The new layout is confusing and I can't profile update.,3,chat,ux
+245,"Excellent support when I sharing. Also, App crashes when I try to uploading photos.",5,chat,praise
+246,I keep getting an error on sync screen.,2,web,bug
+247,Pricing is too high for two-factor auth feature.,4,mobile,pricing
+248,Subscription plans are confusing; I want notifications option.,5,chat,pricing
+249,"No comment, just checking in.",3,web,other
+250,"The integration with serviceX button doesn't work, it just sometimes.",2,email,bug
+251,"Loving the app, profile update works great!",4,chat,praise
+252,The font size is too small on notifications pages.,3,chat,ux
+253,Great experience with profile update — thank you!,4,mobile,praise
+254,App crashes when I try to integration with serviceX.,4,web,bug
+255,I'd love a feature that can sync.,2,web,feature
+256,"Great experience with notifications — thank you! Also, App crashes when I try to filters.",5,web,praise
+257,"I keep getting an error on uploading photos screen. Also, Navigation is hard; I expected filters to be easier.",4,email,bug
+258,Great experience with notifications — thank you!,2,chat,praise
+259,I keep getting an error on sync screen.,2,email,bug
+260,"Loving the app, filters works great!",2,email,praise
+261,Please add notifications to improve sometimes.,1,mobile,feature
+262,I keep getting an error on payments screen.,4,email,bug
+263,App crashes when I try to two-factor auth.,5,mobile,bug
+264,I'd love a feature that can notifications.,2,email,feature
+265,"The sorting button doesn't work, it just quickly. Also, No comment, just checking in.",4,web,bug
+266,Pricing is too high for payments feature.,4,chat,pricing
+267,Subscription plans are confusing; I want sorting option.,5,web,pricing
+268,"Navigation is hard; I expected sorting to be easier. Also, App crashes when I try to notifications.",1,web,ux
+269,"The signup button doesn't work, it just every time. Also, I have a general question about dark mode.",4,chat,bug
+270,App crashes when I try to integration with serviceX.,2,email,bug
+271,Not sure how to use the app for dark mode.,5,email,other
+272,Great experience with profile update — thank you!,5,web,praise
+273,Need support for integration with serviceX integrations.,5,chat,feature
+274,The new layout is confusing and I can't signup.,2,mobile,ux
+275,Please add checkout to improve recently.,3,email,feature
+276,Not sure how to use the app for search.,3,mobile,other
+277,I keep getting an error on search screen.,2,web,bug
+278,The new layout is confusing and I can't sharing.,4,mobile,ux
+279,"No comment, just checking in.",5,mobile,other
+280,"I'd love a feature that can sorting. Also, The font size is too small on profile update pages.",4,email,feature
+281,"Pricing is too high for sharing feature. Also, I keep getting an error on payments screen.",3,chat,pricing
+282,Excellent support when I filters.,4,mobile,praise
+283,Subscription plans are confusing; I want checkout option.,5,chat,pricing
+284,Excellent support when I two-factor auth.,3,email,praise
+285,I have a general question about sync.,1,chat,other
+286,Navigation is hard; I expected payments to be easier.,2,mobile,ux
+287,I'd love a feature that can sorting.,5,mobile,feature
+288,"I was charged twice when I two-factor auth. Also, I have a general question about signup.",1,email,pricing
+289,I'd love a feature that can integration with serviceX.,4,email,feature
+290,I keep getting an error on signup screen.,5,chat,bug
+291,I'd love a feature that can search.,4,web,feature
+292,"The notifications button doesn't work, it just every time.",5,mobile,bug
+293,I keep getting an error on search screen.,5,email,bug
+294,"Navigation is hard; I expected checkout to be easier. Also, The search button doesn't work, it just sometimes.",2,chat,ux
+295,Pricing is too high for integration with serviceX feature.,5,mobile,pricing
+296,"I keep getting an error on logging in screen. Also, Please add payments to improve every time.",5,chat,bug
+297,"Loving the app, signup works great! Also, Excellent support when I dark mode.",4,email,praise
+298,"The checkout button doesn't work, it just sometimes.",3,mobile,bug
+299,Pricing is too high for checkout feature.,3,email,pricing
+300,App crashes when I try to checkout.,4,mobile,bug
+301,The font size is too small on sorting pages.,3,mobile,ux
+302,Need support for uploading photos integrations.,3,web,feature
+303,The new layout is confusing and I can't filters.,4,chat,ux
+304,App crashes when I try to search.,2,web,bug
+305,I keep getting an error on signup screen.,5,email,bug
+306,App crashes when I try to two-factor auth.,2,web,bug
+307,"Please add integration with serviceX to improve recently. Also, Please add checkout to improve sometimes.",3,chat,feature
+308,I was charged twice when I profile update.,3,mobile,pricing
+309,The new layout is confusing and I can't notifications.,3,mobile,ux
+310,"The new layout is confusing and I can't sharing. Also, Loving the app, profile update works great!",3,chat,ux
+311,App crashes when I try to logging in.,3,chat,bug
+312,"Not sure how to use the app for filters. Also, Not sure how to use the app for integration with serviceX.",4,chat,other
+313,Navigation is hard; I expected integration with serviceX to be easier.,3,email,ux
+314,Need support for sync integrations.,2,chat,feature
+315,"App crashes when I try to search. Also, I'd love a feature that can search.",5,chat,bug
+316,"Not sure how to use the app for sorting. Also, Not sure how to use the app for logging in.",4,email,other
+317,Navigation is hard; I expected sorting to be easier.,3,web,ux
+318,"No comment, just checking in.",4,chat,other
+319,Great experience with logging in — thank you!,5,chat,praise
+320,"No comment, just checking in.",4,mobile,other
+321,"Need support for filters integrations. Also, Navigation is hard; I expected filters to be easier.",1,chat,feature
+322,"Loving the app, checkout works great! Also, Subscription plans are confusing; I want profile update option.",5,web,praise
+323,The font size is too small on integration with serviceX pages.,5,mobile,ux
+324,Not sure how to use the app for sync.,5,chat,other
+325,I'd love a feature that can logging in.,3,email,feature
+326,"The sync button doesn't work, it just recently.",1,email,bug
+327,"Need support for sharing integrations. Also, I keep getting an error on sharing screen.",3,mobile,feature
+328,"App crashes when I try to checkout. Also, Need support for two-factor auth integrations.",2,chat,bug
+329,Not sure how to use the app for sync.,4,email,other
+330,I keep getting an error on sync screen.,3,web,bug
+331,"Need support for filters integrations. Also, The font size is too small on sync pages.",5,mobile,feature
+332,Pricing is too high for logging in feature.,3,email,pricing
+333,"The signup button doesn't work, it just recently.",5,web,bug
+334,I have a general question about dark mode.,1,web,other
+335,"Please add logging in to improve recently. Also, I keep getting an error on filters screen.",4,chat,feature
+336,"I'd love a feature that can sorting. Also, Please add payments to improve quickly.",3,chat,feature
+337,The font size is too small on logging in pages.,2,chat,ux
+338,I keep getting an error on integration with serviceX screen.,2,web,bug
+339,Excellent support when I sharing.,5,mobile,praise
+340,"Excellent support when I checkout. Also, The uploading photos button doesn't work, it just quickly.",5,email,praise
+341,Please add notifications to improve quickly.,5,web,feature
+342,Please add dark mode to improve every time.,3,mobile,feature
+343,"The filters button doesn't work, it just without errors.",3,web,bug
+344,I keep getting an error on profile update screen.,1,mobile,bug
+345,I have a general question about sharing.,3,email,other
+346,"App crashes when I try to sharing. Also, Need support for sync integrations.",1,web,bug
+347,"I have a general question about checkout. Also, I keep getting an error on sorting screen.",2,email,other
+348,I keep getting an error on two-factor auth screen.,5,chat,bug
+349,Not sure how to use the app for sharing.,4,mobile,other
+350,App crashes when I try to filters.,4,mobile,bug
+351,I keep getting an error on filters screen.,1,email,bug
+352,The font size is too small on search pages.,5,email,ux
+353,"Need support for logging in integrations. Also, I have a general question about notifications.",4,chat,feature
+354,Pricing is too high for filters feature.,3,mobile,pricing
+355,Please add signup to improve recently.,4,mobile,feature
+356,I'd love a feature that can uploading photos.,2,web,feature
+357,"The new layout is confusing and I can't filters. Also, Excellent support when I logging in.",4,email,ux
+358,Pricing is too high for sorting feature.,4,web,pricing
+359,The font size is too small on notifications pages.,5,mobile,ux
+360,Pricing is too high for payments feature.,4,web,pricing
+361,I'd love a feature that can search.,3,web,feature
+362,"Navigation is hard; I expected profile update to be easier. Also, The checkout button doesn't work, it just quickly.",1,chat,ux
+363,Need support for sorting integrations.,3,chat,feature
+364,I was charged twice when I notifications.,2,email,pricing
+365,The new layout is confusing and I can't sync.,3,web,ux
+366,"Not sure how to use the app for sharing. Also, No comment, just checking in.",5,mobile,other
+367,"I'd love a feature that can dark mode. Also, Navigation is hard; I expected checkout to be easier.",1,email,feature
+368,App crashes when I try to sharing.,2,mobile,bug
+369,I keep getting an error on logging in screen.,2,web,bug
+370,Need support for integration with serviceX integrations.,3,mobile,feature
+371,Pricing is too high for signup feature.,3,web,pricing
+372,"Please add notifications to improve recently. Also, I was charged twice when I signup.",4,web,feature
+373,Great experience with dark mode — thank you!,4,email,praise
+374,"The font size is too small on sorting pages. Also, Subscription plans are confusing; I want signup option.",2,mobile,ux
+375,I keep getting an error on checkout screen.,3,chat,bug
+376,Great experience with notifications — thank you!,4,email,praise
+377,"The logging in button doesn't work, it just recently.",4,chat,bug
+378,The new layout is confusing and I can't notifications.,5,mobile,ux
+379,Please add search to improve recently.,4,mobile,feature
+380,"Loving the app, signup works great!",2,chat,praise
+381,The font size is too small on notifications pages.,4,web,ux
+382,"The sharing button doesn't work, it just every time.",2,email,bug
+383,"The search button doesn't work, it just quickly.",4,mobile,bug
+384,I'd love a feature that can signup.,5,mobile,feature
+385,Great experience with profile update — thank you!,5,mobile,praise
+386,App crashes when I try to logging in.,3,email,bug
+387,The new layout is confusing and I can't payments.,4,mobile,ux
+388,Subscription plans are confusing; I want filters option.,3,mobile,pricing
+389,The new layout is confusing and I can't search.,5,mobile,ux
+390,Great experience with integration with serviceX — thank you!,5,email,praise
+391,The new layout is confusing and I can't payments.,4,chat,ux
+392,I keep getting an error on profile update screen.,3,mobile,bug
+393,"No comment, just checking in. Also, I'd love a feature that can dark mode.",3,web,other
+394,"The profile update button doesn't work, it just without errors.",4,web,bug
+395,"Subscription plans are confusing; I want signup option. Also, Please add logging in to improve every time.",4,email,pricing
+396,"App crashes when I try to checkout. Also, Need support for sorting integrations.",3,mobile,bug
+397,Excellent support when I sync.,4,web,praise
+398,Excellent support when I logging in.,3,chat,praise
+399,The font size is too small on two-factor auth pages.,3,mobile,ux
+400,I keep getting an error on two-factor auth screen.,5,web,bug
+401,Not sure how to use the app for sorting.,1,email,other
+402,Great experience with integration with serviceX — thank you!,2,chat,praise
+403,The new layout is confusing and I can't logging in.,4,mobile,ux
+404,"App crashes when I try to uploading photos. Also, The font size is too small on notifications pages.",2,web,bug
+405,Navigation is hard; I expected filters to be easier.,4,web,ux
+406,"I keep getting an error on payments screen. Also, I have a general question about profile update.",4,web,bug
+407,The font size is too small on profile update pages.,4,mobile,ux
+408,"Please add sorting to improve without errors. Also, I keep getting an error on uploading photos screen.",3,chat,feature
+409,I keep getting an error on profile update screen.,3,mobile,bug
+410,I keep getting an error on signup screen.,2,email,bug
+411,App crashes when I try to search.,3,web,bug
+412,"The payments button doesn't work, it just every time.",4,chat,bug
+413,Need support for sync integrations.,3,email,feature
+414,Please add dark mode to improve without errors.,4,mobile,feature
+415,"Please add integration with serviceX to improve every time. Also, Pricing is too high for filters feature.",4,email,feature
+416,The font size is too small on two-factor auth pages.,5,chat,ux
+417,"I have a general question about payments. Also, I was charged twice when I search.",1,chat,other
+418,App crashes when I try to profile update.,1,email,bug
+419,Please add payments to improve every time.,1,email,feature
+420,"Please add dark mode to improve without errors. Also, I was charged twice when I filters.",1,web,feature
+421,I keep getting an error on sharing screen.,3,chat,bug
+422,"Loving the app, notifications works great!",5,email,praise
+423,The new layout is confusing and I can't uploading photos.,5,mobile,ux
+424,App crashes when I try to filters.,4,web,bug
+425,"Great experience with checkout — thank you! Also, The font size is too small on sharing pages.",4,chat,praise
+426,Pricing is too high for integration with serviceX feature.,2,email,pricing
+427,I'd love a feature that can two-factor auth.,4,chat,feature
+428,Need support for notifications integrations.,1,chat,feature
+429,"Excellent support when I search. Also, I was charged twice when I integration with serviceX.",5,web,praise
+430,Need support for integration with serviceX integrations.,5,chat,feature
+431,Not sure how to use the app for integration with serviceX.,3,chat,other
+432,Not sure how to use the app for filters.,4,mobile,other
+433,"The two-factor auth button doesn't work, it just sometimes.",3,mobile,bug
+434,App crashes when I try to sorting.,5,email,bug
+435,Subscription plans are confusing; I want payments option.,4,mobile,pricing
+436,Not sure how to use the app for uploading photos.,4,email,other
+437,Subscription plans are confusing; I want search option.,4,email,pricing
+438,"I keep getting an error on dark mode screen. Also, I'd love a feature that can profile update.",3,web,bug
+439,I was charged twice when I notifications.,4,mobile,pricing
+440,Need support for filters integrations.,3,mobile,feature
+441,"Please add two-factor auth to improve sometimes. Also, No comment, just checking in.",4,chat,feature
+442,Subscription plans are confusing; I want dark mode option.,5,email,pricing
+443,I'd love a feature that can payments.,2,mobile,feature
+444,"The font size is too small on logging in pages. Also, Excellent support when I integration with serviceX.",1,chat,ux
+445,I keep getting an error on sorting screen.,4,chat,bug
+446,The new layout is confusing and I can't sync.,5,mobile,ux
+447,Excellent support when I sync.,4,chat,praise
+448,I'd love a feature that can dark mode.,2,chat,feature
+449,Please add dark mode to improve sometimes.,4,web,feature
+450,Great experience with dark mode — thank you!,5,mobile,praise
+451,App crashes when I try to checkout.,3,chat,bug
+452,App crashes when I try to sorting.,3,mobile,bug
+453,Not sure how to use the app for uploading photos.,4,chat,other
+454,"Need support for sync integrations. Also, Not sure how to use the app for logging in.",1,email,feature
+455,App crashes when I try to dark mode.,1,chat,bug
+456,Pricing is too high for filters feature.,3,email,pricing
+457,I keep getting an error on profile update screen.,3,chat,bug
+458,I was charged twice when I two-factor auth.,1,mobile,pricing
+459,"I was charged twice when I dark mode. Also, Need support for filters integrations.",4,mobile,pricing
+460,Navigation is hard; I expected dark mode to be easier.,4,email,ux
+461,"The sorting button doesn't work, it just without errors.",1,mobile,bug
+462,I was charged twice when I uploading photos.,1,mobile,pricing
+463,App crashes when I try to filters.,1,mobile,bug
+464,I keep getting an error on sorting screen.,4,email,bug
+465,Please add profile update to improve recently.,3,web,feature
+466,Please add uploading photos to improve recently.,3,chat,feature
+467,"Not sure how to use the app for notifications. Also, App crashes when I try to search.",4,web,other
+468,I'd love a feature that can logging in.,1,chat,feature
+469,Need support for two-factor auth integrations.,3,email,feature
+470,Need support for payments integrations.,5,chat,feature
+471,"I was charged twice when I search. Also, Loving the app, notifications works great!",2,email,pricing
+472,I keep getting an error on filters screen.,5,web,bug
+473,I keep getting an error on signup screen.,3,email,bug
+474,I'd love a feature that can signup.,4,email,feature
+475,The font size is too small on sorting pages.,1,mobile,ux
+476,"Not sure how to use the app for profile update. Also, I have a general question about logging in.",3,web,other
+477,I have a general question about payments.,3,email,other
+478,I keep getting an error on payments screen.,4,web,bug
+479,"Need support for search integrations. Also, No comment, just checking in.",2,email,feature
+480,Subscription plans are confusing; I want integration with serviceX option.,4,email,pricing
+481,Great experience with sharing — thank you!,5,chat,praise
+482,"The new layout is confusing and I can't checkout. Also, Pricing is too high for uploading photos feature.",3,chat,ux
+483,App crashes when I try to signup.,1,chat,bug
+484,"No comment, just checking in. Also, Need support for integration with serviceX integrations.",1,email,other
+485,I keep getting an error on payments screen.,1,web,bug
+486,Need support for logging in integrations.,2,chat,feature
+487,"I'd love a feature that can sharing. Also, Need support for payments integrations.",3,web,feature
+488,I'd love a feature that can sharing.,4,email,feature
+489,"Loving the app, checkout works great!",3,mobile,praise
+490,Not sure how to use the app for logging in.,3,email,other
+491,App crashes when I try to integration with serviceX.,2,mobile,bug
+492,"The new layout is confusing and I can't sharing. Also, The new layout is confusing and I can't sorting.",2,email,ux
+493,Subscription plans are confusing; I want notifications option.,2,chat,pricing
+494,"The font size is too small on payments pages. Also, Need support for uploading photos integrations.",4,web,ux
+495,"Navigation is hard; I expected logging in to be easier. Also, No comment, just checking in.",1,mobile,ux
+496,"Pricing is too high for notifications feature. Also, Need support for profile update integrations.",5,web,pricing
+497,"I'd love a feature that can sorting. Also, I have a general question about dark mode.",4,email,feature
+498,"Not sure how to use the app for notifications. Also, The new layout is confusing and I can't sharing.",5,web,other
+499,Great experience with uploading photos — thank you!,5,web,praise
+500,Pricing is too high for signup feature.,1,email,pricing
+501,Great experience with uploading photos — thank you!,5,mobile,praise
+502,I'd love a feature that can uploading photos.,2,email,feature
+503,"Need support for sharing integrations. Also, Navigation is hard; I expected dark mode to be easier.",4,email,feature
+504,"The two-factor auth button doesn't work, it just every time.",3,mobile,bug
+505,"I'd love a feature that can notifications. Also, I was charged twice when I signup.",3,chat,feature
+506,"The new layout is confusing and I can't sharing. Also, Excellent support when I sync.",5,mobile,ux
+507,Great experience with checkout — thank you!,4,mobile,praise
+508,Pricing is too high for logging in feature.,1,email,pricing
+509,"Loving the app, search works great!",5,email,praise
+510,App crashes when I try to two-factor auth.,4,mobile,bug
+511,"I was charged twice when I sharing. Also, Please add sorting to improve sometimes.",4,web,pricing
+512,"The search button doesn't work, it just recently. Also, Excellent support when I sync.",4,chat,bug
+513,"The font size is too small on signup pages. Also, Need support for signup integrations.",2,mobile,ux
+514,The new layout is confusing and I can't integration with serviceX.,4,web,ux
+515,"App crashes when I try to notifications. Also, I was charged twice when I integration with serviceX.",2,web,bug
+516,"Loving the app, uploading photos works great!",3,web,praise
+517,I have a general question about sorting.,2,email,other
+518,"Great experience with filters — thank you! Also, Great experience with sorting — thank you!",5,mobile,praise
+519,App crashes when I try to uploading photos.,4,chat,bug
+520,I keep getting an error on uploading photos screen.,1,chat,bug
+521,"The checkout button doesn't work, it just without errors. Also, The new layout is confusing and I can't notifications.",3,email,bug
+522,"Subscription plans are confusing; I want two-factor auth option. Also, App crashes when I try to sync.",4,chat,pricing
+523,App crashes when I try to notifications.,4,email,bug
+524,"I was charged twice when I dark mode. Also, Need support for sync integrations.",4,email,pricing
+525,Excellent support when I sync.,5,web,praise
+526,"No comment, just checking in.",1,web,other
+527,"Loving the app, two-factor auth works great! Also, The new layout is confusing and I can't dark mode.",5,mobile,praise
+528,"The font size is too small on search pages. Also, I keep getting an error on payments screen.",3,email,ux
+529,Need support for checkout integrations.,2,chat,feature
+530,Need support for profile update integrations.,1,web,feature
+531,I have a general question about notifications.,3,web,other
+532,"Great experience with search — thank you! Also, Not sure how to use the app for uploading photos.",3,web,praise
+533,"I'd love a feature that can search. Also, I have a general question about search.",5,mobile,feature
+534,I keep getting an error on payments screen.,3,web,bug
+535,I keep getting an error on sharing screen.,1,web,bug
+536,The font size is too small on search pages.,4,email,ux
+537,I have a general question about uploading photos.,4,mobile,other
+538,Need support for checkout integrations.,3,web,feature
+539,App crashes when I try to notifications.,4,mobile,bug
+540,App crashes when I try to integration with serviceX.,3,mobile,bug
+541,The new layout is confusing and I can't uploading photos.,4,web,ux
+542,Navigation is hard; I expected profile update to be easier.,4,chat,ux
+543,The new layout is confusing and I can't uploading photos.,4,mobile,ux
+544,"Loving the app, profile update works great! Also, Loving the app, sorting works great!",4,chat,praise
+545,"The uploading photos button doesn't work, it just quickly. Also, Subscription plans are confusing; I want sync option.",2,chat,bug
+546,Please add dark mode to improve without errors.,5,web,feature
+547,"I'd love a feature that can two-factor auth. Also, I have a general question about notifications.",2,mobile,feature
+548,I have a general question about search.,5,email,other
+549,"App crashes when I try to notifications. Also, Navigation is hard; I expected notifications to be easier.",4,email,bug
+550,"Not sure how to use the app for sorting. Also, The font size is too small on signup pages.",1,email,other
+551,"Subscription plans are confusing; I want sharing option. Also, I keep getting an error on two-factor auth screen.",4,mobile,pricing
+552,I keep getting an error on logging in screen.,4,mobile,bug
+553,"Need support for profile update integrations. Also, Not sure how to use the app for search.",3,chat,feature
+554,The font size is too small on sorting pages.,4,chat,ux
+555,"Please add profile update to improve sometimes. Also, The new layout is confusing and I can't logging in.",1,chat,feature
+556,"I keep getting an error on integration with serviceX screen. Also, Excellent support when I sorting.",4,chat,bug
+557,Navigation is hard; I expected dark mode to be easier.,1,chat,ux
+558,App crashes when I try to two-factor auth.,3,email,bug
+559,"Loving the app, search works great!",5,email,praise
+560,"The checkout button doesn't work, it just without errors.",5,chat,bug
+561,"The signup button doesn't work, it just quickly.",4,web,bug
+562,"App crashes when I try to signup. Also, Please add sync to improve quickly.",3,chat,bug
+563,Not sure how to use the app for filters.,4,mobile,other
+564,"Great experience with integration with serviceX — thank you! Also, I keep getting an error on filters screen.",5,mobile,praise
+565,The new layout is confusing and I can't sync.,1,email,ux
+566,I have a general question about logging in.,4,chat,other
+567,"No comment, just checking in.",1,mobile,other
+568,Excellent support when I logging in.,1,email,praise
+569,"The dark mode button doesn't work, it just recently.",3,mobile,bug
+570,"I have a general question about search. Also, Great experience with sorting — thank you!",3,mobile,other
+571,"Need support for sharing integrations. Also, App crashes when I try to filters.",4,chat,feature
+572,The new layout is confusing and I can't logging in.,1,web,ux
+573,Need support for uploading photos integrations.,3,mobile,feature
+574,Please add filters to improve every time.,2,mobile,feature
+575,The font size is too small on two-factor auth pages.,5,chat,ux
+576,The font size is too small on signup pages.,1,mobile,ux
+577,The new layout is confusing and I can't sync.,3,mobile,ux
+578,Pricing is too high for notifications feature.,5,mobile,pricing
+579,"The payments button doesn't work, it just quickly.",4,email,bug
+580,"App crashes when I try to logging in. Also, I was charged twice when I sorting.",4,email,bug
+581,Not sure how to use the app for payments.,4,web,other
+582,I keep getting an error on uploading photos screen.,1,mobile,bug
+583,"Excellent support when I uploading photos. Also, Pricing is too high for profile update feature.",5,mobile,praise
+584,Great experience with integration with serviceX — thank you!,3,mobile,praise
+585,I keep getting an error on sorting screen.,3,web,bug
+586,Need support for signup integrations.,5,mobile,feature
+587,Please add profile update to improve sometimes.,1,mobile,feature
+588,I'd love a feature that can integration with serviceX.,2,mobile,feature
+589,"The search button doesn't work, it just recently.",5,email,bug
+590,Please add uploading photos to improve sometimes.,2,chat,feature
+591,Navigation is hard; I expected two-factor auth to be easier.,3,web,ux
+592,The font size is too small on logging in pages.,1,chat,ux
+593,Need support for notifications integrations.,2,chat,feature
+594,App crashes when I try to notifications.,4,mobile,bug
+595,"Pricing is too high for integration with serviceX feature. Also, I'd love a feature that can notifications.",3,mobile,pricing
+596,I have a general question about logging in.,1,mobile,other
+597,"The two-factor auth button doesn't work, it just sometimes.",1,email,bug
+598,Need support for filters integrations.,3,web,feature
+599,The new layout is confusing and I can't profile update.,4,chat,ux
+600,"Excellent support when I notifications. Also, Excellent support when I search.",5,chat,praise
+601,I keep getting an error on notifications screen.,3,chat,bug
+602,The font size is too small on sync pages.,3,email,ux
+603,I have a general question about sharing.,2,web,other
+604,Need support for checkout integrations.,3,mobile,feature
+605,"Excellent support when I logging in. Also, No comment, just checking in.",5,email,praise
+606,"Subscription plans are confusing; I want notifications option. Also, Loving the app, profile update works great!",3,chat,pricing
+607,Great experience with profile update — thank you!,3,web,praise
+608,The new layout is confusing and I can't sorting.,3,email,ux
+609,Not sure how to use the app for sharing.,3,mobile,other
+610,Please add notifications to improve recently.,4,email,feature
+611,"I'd love a feature that can sync. Also, Navigation is hard; I expected signup to be easier.",4,mobile,feature
+612,"The payments button doesn't work, it just sometimes.",3,web,bug
+613,"The notifications button doesn't work, it just recently.",4,chat,bug
+614,I have a general question about two-factor auth.,1,web,other
+615,Please add two-factor auth to improve sometimes.,3,web,feature
+616,App crashes when I try to integration with serviceX.,4,chat,bug
+617,"Need support for search integrations. Also, Great experience with profile update — thank you!",2,email,feature
+618,"Need support for integration with serviceX integrations. Also, The sorting button doesn't work, it just sometimes.",1,web,feature
+619,"Loving the app, sharing works great!",3,email,praise
+620,"Loving the app, filters works great! Also, The new layout is confusing and I can't payments.",4,chat,praise
+621,"No comment, just checking in.",1,chat,other
+622,I have a general question about checkout.,3,email,other
+623,I'd love a feature that can notifications.,2,mobile,feature
+624,"Loving the app, integration with serviceX works great! Also, Excellent support when I signup.",5,web,praise
+625,Need support for search integrations.,3,email,feature
+626,Subscription plans are confusing; I want payments option.,5,mobile,pricing
+627,"Need support for dark mode integrations. Also, Not sure how to use the app for sorting.",1,email,feature
+628,The font size is too small on sorting pages.,3,chat,ux
+629,I'd love a feature that can dark mode.,3,web,feature
+630,"I'd love a feature that can signup. Also, Great experience with logging in — thank you!",5,web,feature
+631,"Pricing is too high for sorting feature. Also, App crashes when I try to notifications.",4,email,pricing
+632,"Excellent support when I filters. Also, The font size is too small on two-factor auth pages.",5,mobile,praise
+633,Excellent support when I uploading photos.,4,web,praise
+634,Navigation is hard; I expected dark mode to be easier.,4,mobile,ux
+635,Navigation is hard; I expected filters to be easier.,1,web,ux
+636,The new layout is confusing and I can't profile update.,1,mobile,ux
+637,"Please add profile update to improve quickly. Also, I'd love a feature that can search.",4,mobile,feature
+638,"Great experience with search — thank you! Also, I'd love a feature that can sharing.",3,mobile,praise
+639,Navigation is hard; I expected profile update to be easier.,2,email,ux
+640,"Need support for two-factor auth integrations. Also, Pricing is too high for notifications feature.",3,mobile,feature
+641,Navigation is hard; I expected sync to be easier.,3,mobile,ux
+642,"Loving the app, checkout works great! Also, I'd love a feature that can sync.",4,chat,praise
+643,The new layout is confusing and I can't checkout.,5,chat,ux
+644,"Subscription plans are confusing; I want checkout option. Also, Subscription plans are confusing; I want notifications option.",2,chat,pricing
+645,Excellent support when I notifications.,5,email,praise
+646,The new layout is confusing and I can't notifications.,3,web,ux
+647,App crashes when I try to notifications.,5,web,bug
+648,Please add sync to improve recently.,5,web,feature
+649,I'd love a feature that can profile update.,1,email,feature
+650,The new layout is confusing and I can't checkout.,2,mobile,ux
+651,Need support for uploading photos integrations.,4,chat,feature
+652,I'd love a feature that can two-factor auth.,1,mobile,feature
+653,Need support for checkout integrations.,4,email,feature
+654,"The two-factor auth button doesn't work, it just every time. Also, I keep getting an error on sync screen.",3,email,bug
+655,Subscription plans are confusing; I want sharing option.,4,chat,pricing
+656,App crashes when I try to integration with serviceX.,3,email,bug
+657,Great experience with filters — thank you!,4,email,praise
+658,Navigation is hard; I expected sync to be easier.,5,mobile,ux
+659,"App crashes when I try to uploading photos. Also, I have a general question about integration with serviceX.",2,web,bug
+660,Great experience with filters — thank you!,5,mobile,praise
+661,"Need support for logging in integrations. Also, Please add filters to improve quickly.",4,chat,feature
+662,App crashes when I try to notifications.,3,web,bug
+663,Subscription plans are confusing; I want checkout option.,3,web,pricing
+664,App crashes when I try to search.,2,email,bug
+665,I was charged twice when I sorting.,5,mobile,pricing
+666,"Navigation is hard; I expected logging in to be easier. Also, The font size is too small on two-factor auth pages.",5,chat,ux
+667,Need support for notifications integrations.,3,web,feature
+668,"Loving the app, sorting works great! Also, No comment, just checking in.",4,web,praise
+669,Please add payments to improve every time.,3,chat,feature
+670,Excellent support when I sync.,5,web,praise
+671,App crashes when I try to checkout.,1,mobile,bug
+672,Please add payments to improve sometimes.,2,chat,feature
+673,"App crashes when I try to two-factor auth. Also, Need support for profile update integrations.",3,web,bug
+674,Please add signup to improve quickly.,4,mobile,feature
+675,Great experience with integration with serviceX — thank you!,4,mobile,praise
+676,"I keep getting an error on payments screen. Also, Excellent support when I search.",3,email,bug
+677,"No comment, just checking in.",4,mobile,other
+678,I'd love a feature that can integration with serviceX.,4,mobile,feature
+679,"I keep getting an error on notifications screen. Also, Navigation is hard; I expected dark mode to be easier.",5,mobile,bug
+680,"No comment, just checking in. Also, Excellent support when I signup.",5,web,other
+681,"I keep getting an error on signup screen. Also, Not sure how to use the app for sharing.",5,email,bug
+682,I was charged twice when I checkout.,1,email,pricing
+683,"I have a general question about dark mode. Also, I'd love a feature that can filters.",2,web,other
+684,I keep getting an error on checkout screen.,5,mobile,bug
+685,Please add profile update to improve without errors.,4,mobile,feature
+686,"The font size is too small on notifications pages. Also, Pricing is too high for dark mode feature.",4,chat,ux
+687,"Navigation is hard; I expected sync to be easier. Also, Subscription plans are confusing; I want search option.",4,web,ux
+688,"Please add signup to improve without errors. Also, I keep getting an error on sync screen.",5,mobile,feature
+689,Need support for notifications integrations.,3,mobile,feature
+690,I'd love a feature that can logging in.,2,mobile,feature
+691,Please add sharing to improve recently.,2,web,feature
+692,Navigation is hard; I expected sharing to be easier.,3,web,ux
+693,"The font size is too small on sharing pages. Also, Subscription plans are confusing; I want checkout option.",3,mobile,ux
+694,I keep getting an error on uploading photos screen.,3,web,bug
+695,"Not sure how to use the app for signup. Also, The integration with serviceX button doesn't work, it just recently.",3,email,other
+696,Please add logging in to improve without errors.,5,web,feature
+697,"App crashes when I try to integration with serviceX. Also, No comment, just checking in.",5,mobile,bug
+698,"The integration with serviceX button doesn't work, it just every time.",2,web,bug
+699,App crashes when I try to integration with serviceX.,4,email,bug
+700,"I'd love a feature that can notifications. Also, I have a general question about payments.",3,chat,feature
+701,"No comment, just checking in.",3,mobile,other
+702,Subscription plans are confusing; I want checkout option.,4,email,pricing
+703,I keep getting an error on logging in screen.,4,email,bug
+704,"The logging in button doesn't work, it just quickly.",2,email,bug
+705,"Loving the app, integration with serviceX works great! Also, Not sure how to use the app for signup.",3,web,praise
+706,"App crashes when I try to two-factor auth. Also, Great experience with sharing — thank you!",4,mobile,bug
+707,"No comment, just checking in.",2,mobile,other
+708,"I have a general question about two-factor auth. Also, I was charged twice when I sorting.",3,email,other
+709,I'd love a feature that can integration with serviceX.,1,mobile,feature
+710,I'd love a feature that can filters.,4,email,feature
+711,"Not sure how to use the app for sync. Also, Please add uploading photos to improve recently.",4,web,other
+712,"Subscription plans are confusing; I want integration with serviceX option. Also, Great experience with filters — thank you!",4,chat,pricing
+713,"The logging in button doesn't work, it just quickly.",5,email,bug
+714,I was charged twice when I integration with serviceX.,4,web,pricing
+715,Need support for sorting integrations.,5,mobile,feature
+716,I was charged twice when I search.,3,email,pricing
+717,"Navigation is hard; I expected two-factor auth to be easier. Also, Please add payments to improve recently.",1,chat,ux
+718,"I keep getting an error on profile update screen. Also, I keep getting an error on two-factor auth screen.",2,chat,bug
+719,"Loving the app, uploading photos works great! Also, I keep getting an error on dark mode screen.",3,mobile,praise
+720,The new layout is confusing and I can't search.,1,email,ux
+721,"Loving the app, sorting works great!",5,chat,praise
+722,"Need support for profile update integrations. Also, Loving the app, uploading photos works great!",1,mobile,feature
+723,I have a general question about profile update.,1,email,other
+724,Great experience with logging in — thank you!,5,chat,praise
+725,I keep getting an error on filters screen.,4,web,bug
+726,Navigation is hard; I expected two-factor auth to be easier.,4,mobile,ux
+727,I keep getting an error on sorting screen.,3,email,bug
+728,"The new layout is confusing and I can't integration with serviceX. Also, Pricing is too high for dark mode feature.",2,web,ux
+729,I'd love a feature that can dark mode.,1,chat,feature
+730,App crashes when I try to two-factor auth.,1,mobile,bug
+731,Subscription plans are confusing; I want dark mode option.,3,web,pricing
+732,The new layout is confusing and I can't notifications.,4,email,ux
+733,"Excellent support when I logging in. Also, Loving the app, logging in works great!",5,email,praise
+734,"I'd love a feature that can profile update. Also, The uploading photos button doesn't work, it just every time.",5,mobile,feature
+735,Excellent support when I search.,5,email,praise
+736,Navigation is hard; I expected uploading photos to be easier.,4,chat,ux
+737,I have a general question about sharing.,1,web,other
+738,"App crashes when I try to payments. Also, The profile update button doesn't work, it just sometimes.",2,email,bug
+739,"No comment, just checking in.",3,web,other
+740,Need support for profile update integrations.,3,email,feature
+741,"The sorting button doesn't work, it just quickly.",1,email,bug
+742,"Excellent support when I payments. Also, Subscription plans are confusing; I want sharing option.",5,mobile,praise
+743,"The search button doesn't work, it just recently. Also, The new layout is confusing and I can't signup.",1,email,bug
+744,"Navigation is hard; I expected search to be easier. Also, The font size is too small on sharing pages.",1,email,ux
+745,I was charged twice when I dark mode.,3,chat,pricing
+746,"App crashes when I try to payments. Also, The uploading photos button doesn't work, it just quickly.",4,chat,bug
+747,"Loving the app, uploading photos works great!",4,mobile,praise
+748,"The payments button doesn't work, it just without errors.",2,chat,bug
+749,Excellent support when I payments.,5,chat,praise
+750,The new layout is confusing and I can't payments.,3,email,ux
+751,"App crashes when I try to two-factor auth. Also, Excellent support when I sync.",2,chat,bug
+752,Please add sharing to improve recently.,3,web,feature
+753,Great experience with dark mode — thank you!,5,web,praise
+754,Need support for logging in integrations.,3,chat,feature
+755,I have a general question about two-factor auth.,3,mobile,other
+756,"Excellent support when I search. Also, I was charged twice when I logging in.",3,web,praise
+757,The new layout is confusing and I can't signup.,5,chat,ux
+758,The font size is too small on dark mode pages.,1,web,ux
+759,"The logging in button doesn't work, it just sometimes.",1,web,bug
+760,"I keep getting an error on signup screen. Also, I keep getting an error on dark mode screen.",2,web,bug
+761,The new layout is confusing and I can't dark mode.,2,email,ux
+762,"Excellent support when I integration with serviceX. Also, Excellent support when I filters.",3,email,praise
+763,"I was charged twice when I uploading photos. Also, Loving the app, search works great!",4,chat,pricing
+764,"Loving the app, sync works great! Also, App crashes when I try to dark mode.",4,web,praise
+765,"The new layout is confusing and I can't uploading photos. Also, Excellent support when I profile update.",4,email,ux
+766,Excellent support when I filters.,5,chat,praise
+767,"Loving the app, logging in works great!",4,email,praise
+768,The new layout is confusing and I can't profile update.,3,mobile,ux
+769,The font size is too small on sync pages.,5,chat,ux
+770,"No comment, just checking in.",2,email,other
+771,App crashes when I try to uploading photos.,3,web,bug
+772,"No comment, just checking in.",2,chat,other
+773,"Loving the app, payments works great! Also, Subscription plans are confusing; I want payments option.",4,chat,praise
+774,App crashes when I try to two-factor auth.,5,mobile,bug
+775,"Great experience with dark mode — thank you! Also, I was charged twice when I payments.",2,web,praise
+776,"The sync button doesn't work, it just sometimes.",4,mobile,bug
+777,"The filters button doesn't work, it just recently. Also, I have a general question about checkout.",4,email,bug
+778,Please add two-factor auth to improve without errors.,2,web,feature
+779,The new layout is confusing and I can't sync.,3,mobile,ux
+780,Need support for signup integrations.,4,chat,feature
+781,I keep getting an error on sync screen.,5,chat,bug
+782,"Loving the app, integration with serviceX works great!",5,mobile,praise
+783,The new layout is confusing and I can't integration with serviceX.,4,web,ux
+784,The new layout is confusing and I can't profile update.,3,web,ux
+785,"Pricing is too high for dark mode feature. Also, Great experience with uploading photos — thank you!",1,web,pricing
+786,Great experience with sync — thank you!,5,mobile,praise
+787,App crashes when I try to filters.,3,chat,bug
+788,"Excellent support when I payments. Also, App crashes when I try to signup.",5,chat,praise
+789,"The uploading photos button doesn't work, it just recently.",5,chat,bug
+790,Navigation is hard; I expected two-factor auth to be easier.,2,chat,ux
+791,"Loving the app, sync works great! Also, The font size is too small on two-factor auth pages.",4,mobile,praise
+792,Please add signup to improve quickly.,1,mobile,feature
+793,Please add signup to improve sometimes.,3,mobile,feature
+794,Subscription plans are confusing; I want sharing option.,3,web,pricing
+795,"The font size is too small on logging in pages. Also, The payments button doesn't work, it just without errors.",3,email,ux
+796,Need support for logging in integrations.,1,email,feature
+797,Please add profile update to improve recently.,4,email,feature
+798,"Great experience with integration with serviceX — thank you! Also, Navigation is hard; I expected two-factor auth to be easier.",5,mobile,praise
+799,Need support for integration with serviceX integrations.,1,chat,feature
+800,"The font size is too small on profile update pages. Also, The new layout is confusing and I can't uploading photos.",4,web,ux
+801,"Excellent support when I dark mode. Also, Please add sync to improve without errors.",3,web,praise
+802,"Please add search to improve recently. Also, App crashes when I try to payments.",4,chat,feature
+803,"App crashes when I try to sharing. Also, The new layout is confusing and I can't profile update.",3,email,bug
+804,App crashes when I try to filters.,5,chat,bug
+805,I have a general question about logging in.,2,mobile,other
+806,"The filters button doesn't work, it just sometimes. Also, I have a general question about notifications.",3,email,bug
+807,"Navigation is hard; I expected dark mode to be easier. Also, The new layout is confusing and I can't integration with serviceX.",2,web,ux
+808,"The font size is too small on checkout pages. Also, App crashes when I try to search.",4,chat,ux
+809,Please add notifications to improve quickly.,2,web,feature
+810,App crashes when I try to checkout.,4,mobile,bug
+811,Please add filters to improve without errors.,1,chat,feature
+812,Pricing is too high for logging in feature.,2,web,pricing
+813,Please add logging in to improve every time.,1,chat,feature
+814,Excellent support when I integration with serviceX.,4,mobile,praise
+815,I keep getting an error on uploading photos screen.,2,web,bug
+816,The font size is too small on sharing pages.,4,mobile,ux
+817,"Please add notifications to improve sometimes. Also, No comment, just checking in.",1,email,feature
+818,"Excellent support when I search. Also, Great experience with profile update — thank you!",5,chat,praise
+819,I was charged twice when I profile update.,5,email,pricing
+820,I have a general question about logging in.,2,chat,other
+821,"The new layout is confusing and I can't profile update. Also, I have a general question about checkout.",4,mobile,ux
+822,"The signup button doesn't work, it just every time.",1,mobile,bug
+823,"I keep getting an error on sharing screen. Also, I was charged twice when I search.",4,email,bug
+824,I keep getting an error on notifications screen.,4,mobile,bug
+825,Great experience with integration with serviceX — thank you!,5,mobile,praise
+826,"Loving the app, two-factor auth works great!",4,mobile,praise
+827,The new layout is confusing and I can't profile update.,5,web,ux
+828,"I'd love a feature that can payments. Also, Navigation is hard; I expected search to be easier.",4,web,feature
+829,Great experience with integration with serviceX — thank you!,5,mobile,praise
+830,Pricing is too high for two-factor auth feature.,2,chat,pricing
+831,"No comment, just checking in.",3,web,other
+832,Excellent support when I two-factor auth.,2,chat,praise
+833,I'd love a feature that can sharing.,3,web,feature
+834,"No comment, just checking in. Also, Not sure how to use the app for uploading photos.",4,email,other
+835,"Loving the app, filters works great!",3,email,praise
+836,"Loving the app, uploading photos works great! Also, Subscription plans are confusing; I want notifications option.",5,chat,praise
+837,Pricing is too high for dark mode feature.,4,email,pricing
+838,Navigation is hard; I expected logging in to be easier.,5,email,ux
+839,The new layout is confusing and I can't signup.,3,web,ux
+840,Navigation is hard; I expected filters to be easier.,2,web,ux
+841,I'd love a feature that can uploading photos.,5,web,feature
+842,I'd love a feature that can integration with serviceX.,4,mobile,feature
+843,"Need support for notifications integrations. Also, Pricing is too high for checkout feature.",5,mobile,feature
+844,Please add profile update to improve recently.,4,web,feature
+845,The new layout is confusing and I can't filters.,3,chat,ux
+846,Pricing is too high for checkout feature.,1,mobile,pricing
+847,Excellent support when I checkout.,4,chat,praise
+848,Need support for sorting integrations.,4,email,feature
+849,"I'd love a feature that can payments. Also, No comment, just checking in.",4,email,feature
+850,"The search button doesn't work, it just sometimes.",3,web,bug
+851,The font size is too small on search pages.,2,chat,ux
+852,"Subscription plans are confusing; I want dark mode option. Also, Subscription plans are confusing; I want sync option.",2,chat,pricing
+853,"I'd love a feature that can notifications. Also, I was charged twice when I sharing.",1,mobile,feature
+854,"Please add payments to improve every time. Also, Loving the app, integration with serviceX works great!",2,mobile,feature
+855,"Please add logging in to improve every time. Also, I keep getting an error on sorting screen.",1,chat,feature
+856,I keep getting an error on checkout screen.,4,mobile,bug
+857,Please add uploading photos to improve every time.,4,web,feature
+858,I'd love a feature that can two-factor auth.,3,email,feature
+859,"Loving the app, signup works great!",3,chat,praise
+860,Need support for sharing integrations.,3,web,feature
+861,The font size is too small on filters pages.,1,mobile,ux
+862,"Navigation is hard; I expected profile update to be easier. Also, Navigation is hard; I expected search to be easier.",2,chat,ux
+863,"No comment, just checking in. Also, Loving the app, integration with serviceX works great!",3,chat,other
+864,"No comment, just checking in.",3,web,other
+865,Excellent support when I notifications.,5,chat,praise
+866,Subscription plans are confusing; I want dark mode option.,5,email,pricing
+867,The font size is too small on integration with serviceX pages.,2,chat,ux
+868,"I keep getting an error on filters screen. Also, I'd love a feature that can dark mode.",4,mobile,bug
+869,"I'd love a feature that can logging in. Also, Subscription plans are confusing; I want profile update option.",1,chat,feature
+870,"The logging in button doesn't work, it just sometimes.",1,chat,bug
+871,I keep getting an error on two-factor auth screen.,4,email,bug
+872,"I have a general question about sorting. Also, No comment, just checking in.",3,mobile,other
+873,Navigation is hard; I expected dark mode to be easier.,1,chat,ux
+874,App crashes when I try to filters.,1,chat,bug
+875,Not sure how to use the app for logging in.,5,web,other
+876,Please add dark mode to improve sometimes.,4,web,feature
+877,"I'd love a feature that can filters. Also, Subscription plans are confusing; I want profile update option.",1,web,feature
+878,Excellent support when I uploading photos.,4,chat,praise
+879,"No comment, just checking in.",3,email,other
+880,Excellent support when I uploading photos.,5,mobile,praise
+881,"Pricing is too high for payments feature. Also, I keep getting an error on profile update screen.",2,email,pricing
+882,The font size is too small on sync pages.,2,mobile,ux
+883,"Loving the app, filters works great!",4,mobile,praise
+884,Great experience with filters — thank you!,4,web,praise
+885,Excellent support when I logging in.,5,web,praise
+886,Navigation is hard; I expected search to be easier.,3,chat,ux
+887,The font size is too small on two-factor auth pages.,2,mobile,ux
+888,Pricing is too high for sync feature.,1,mobile,pricing
+889,"Loving the app, filters works great! Also, Navigation is hard; I expected signup to be easier.",4,email,praise
+890,"No comment, just checking in. Also, Pricing is too high for two-factor auth feature.",5,mobile,other
+891,I keep getting an error on notifications screen.,2,web,bug
+892,Please add integration with serviceX to improve every time.,1,mobile,feature
+893,"I keep getting an error on integration with serviceX screen. Also, Not sure how to use the app for payments.",1,email,bug
+894,Need support for notifications integrations.,4,mobile,feature
+895,Navigation is hard; I expected sorting to be easier.,5,web,ux
+896,Great experience with logging in — thank you!,4,email,praise
+897,"Need support for filters integrations. Also, Not sure how to use the app for notifications.",3,mobile,feature
+898,"Need support for profile update integrations. Also, App crashes when I try to uploading photos.",5,email,feature
+899,"Excellent support when I payments. Also, I was charged twice when I payments.",5,mobile,praise
+900,"I have a general question about two-factor auth. Also, The two-factor auth button doesn't work, it just quickly.",4,chat,other
+901,"Loving the app, sorting works great!",5,web,praise
+902,I was charged twice when I signup.,2,email,pricing
+903,Please add notifications to improve without errors.,5,email,feature
+904,I'd love a feature that can profile update.,2,email,feature
+905,Subscription plans are confusing; I want dark mode option.,2,web,pricing
+906,The new layout is confusing and I can't checkout.,3,email,ux
+907,Subscription plans are confusing; I want uploading photos option.,4,mobile,pricing
+908,App crashes when I try to payments.,4,mobile,bug
+909,I was charged twice when I sorting.,1,chat,pricing
+910,"The font size is too small on search pages. Also, Subscription plans are confusing; I want filters option.",2,web,ux
+911,Navigation is hard; I expected search to be easier.,2,mobile,ux
+912,Need support for profile update integrations.,5,web,feature
+913,I have a general question about profile update.,3,web,other
+914,"I'd love a feature that can profile update. Also, Excellent support when I payments.",3,mobile,feature
+915,"I'd love a feature that can signup. Also, I was charged twice when I signup.",1,chat,feature
+916,Please add search to improve without errors.,5,web,feature
+917,Excellent support when I two-factor auth.,5,mobile,praise
+918,"No comment, just checking in.",1,web,other
+919,Not sure how to use the app for profile update.,1,web,other
+920,The font size is too small on search pages.,5,mobile,ux
+921,"Navigation is hard; I expected logging in to be easier. Also, Subscription plans are confusing; I want sorting option.",2,web,ux
+922,"Great experience with two-factor auth — thank you! Also, Great experience with sharing — thank you!",4,chat,praise
+923,Not sure how to use the app for search.,1,mobile,other
+924,I keep getting an error on uploading photos screen.,3,web,bug
+925,Great experience with checkout — thank you!,5,chat,praise
+926,I was charged twice when I sharing.,4,chat,pricing
+927,Navigation is hard; I expected uploading photos to be easier.,2,web,ux
+928,Great experience with payments — thank you!,3,chat,praise
+929,I'd love a feature that can two-factor auth.,3,web,feature
+930,I'd love a feature that can payments.,2,web,feature
+931,Navigation is hard; I expected payments to be easier.,4,mobile,ux
+932,"Loving the app, notifications works great! Also, Loving the app, logging in works great!",4,mobile,praise
+933,"The sharing button doesn't work, it just without errors.",4,mobile,bug
+934,I keep getting an error on sharing screen.,2,chat,bug
+935,I keep getting an error on uploading photos screen.,3,chat,bug
+936,I keep getting an error on checkout screen.,1,web,bug
+937,Navigation is hard; I expected signup to be easier.,3,email,ux
+938,Excellent support when I sync.,4,mobile,praise
+939,Please add checkout to improve recently.,1,mobile,feature
+940,The new layout is confusing and I can't sorting.,5,web,ux
+941,"The two-factor auth button doesn't work, it just every time.",2,email,bug
+942,"The font size is too small on dark mode pages. Also, Loving the app, dark mode works great!",5,mobile,ux
+943,Excellent support when I sharing.,5,mobile,praise
+944,Need support for profile update integrations.,3,web,feature
+945,"Not sure how to use the app for sync. Also, Need support for logging in integrations.",5,email,other
+946,The font size is too small on signup pages.,5,mobile,ux
+947,The font size is too small on filters pages.,2,chat,ux
+948,Not sure how to use the app for uploading photos.,2,mobile,other
+949,The new layout is confusing and I can't signup.,4,web,ux
+950,"Loving the app, logging in works great! Also, I have a general question about filters.",5,email,praise
+951,Need support for sorting integrations.,5,web,feature
+952,App crashes when I try to sorting.,5,web,bug
+953,"Loving the app, uploading photos works great!",5,chat,praise
+954,"Need support for sharing integrations. Also, Navigation is hard; I expected search to be easier.",3,email,feature
+955,Excellent support when I profile update.,3,email,praise
+956,"App crashes when I try to uploading photos. Also, Need support for uploading photos integrations.",3,chat,bug
+957,"The font size is too small on payments pages. Also, The font size is too small on sharing pages.",5,web,ux
+958,I was charged twice when I search.,4,web,pricing
+959,The new layout is confusing and I can't sorting.,2,chat,ux
+960,"The filters button doesn't work, it just sometimes. Also, Need support for uploading photos integrations.",3,mobile,bug
+961,"Pricing is too high for sorting feature. Also, Excellent support when I sync.",4,email,pricing
+962,Navigation is hard; I expected logging in to be easier.,5,mobile,ux
+963,Subscription plans are confusing; I want notifications option.,4,email,pricing
+964,"I have a general question about uploading photos. Also, Pricing is too high for filters feature.",3,mobile,other
+965,I have a general question about notifications.,4,chat,other
+966,"Please add uploading photos to improve quickly. Also, Excellent support when I signup.",3,chat,feature
+967,"I was charged twice when I dark mode. Also, Navigation is hard; I expected notifications to be easier.",1,email,pricing
+968,"The font size is too small on signup pages. Also, The font size is too small on payments pages.",4,email,ux
+969,"I keep getting an error on uploading photos screen. Also, The new layout is confusing and I can't checkout.",4,mobile,bug
+970,"App crashes when I try to sharing. Also, Navigation is hard; I expected profile update to be easier.",3,web,bug
+971,I keep getting an error on profile update screen.,2,email,bug
+972,I was charged twice when I sorting.,4,mobile,pricing
+973,I was charged twice when I logging in.,2,chat,pricing
+974,I was charged twice when I sync.,4,mobile,pricing
+975,Excellent support when I logging in.,5,email,praise
+976,"The payments button doesn't work, it just recently.",5,mobile,bug
+977,Not sure how to use the app for integration with serviceX.,5,chat,other
+978,"Loving the app, signup works great! Also, I was charged twice when I filters.",4,mobile,praise
+979,I have a general question about payments.,2,email,other
+980,Navigation is hard; I expected payments to be easier.,3,chat,ux
+981,App crashes when I try to search.,1,mobile,bug
+982,The font size is too small on profile update pages.,5,mobile,ux
+983,Need support for sharing integrations.,2,web,feature
+984,"Not sure how to use the app for payments. Also, Navigation is hard; I expected search to be easier.",3,web,other
+985,"No comment, just checking in. Also, Subscription plans are confusing; I want signup option.",3,mobile,other
+986,Need support for logging in integrations.,3,chat,feature
+987,"No comment, just checking in.",5,mobile,other
+988,Navigation is hard; I expected profile update to be easier.,3,chat,ux
+989,"I was charged twice when I checkout. Also, No comment, just checking in.",5,mobile,pricing
+990,"Great experience with sync — thank you! Also, Subscription plans are confusing; I want checkout option.",5,email,praise
+991,"Subscription plans are confusing; I want two-factor auth option. Also, The notifications button doesn't work, it just quickly.",1,chat,pricing
+992,App crashes when I try to integration with serviceX.,3,mobile,bug
+993,I'd love a feature that can sync.,4,email,feature
+994,Great experience with filters — thank you!,5,mobile,praise
+995,"The filters button doesn't work, it just every time.",3,email,bug
+996,Navigation is hard; I expected checkout to be easier.,3,email,ux
+997,"I'd love a feature that can profile update. Also, The font size is too small on integration with serviceX pages.",1,email,feature
+998,Subscription plans are confusing; I want payments option.,4,email,pricing
+999,Not sure how to use the app for logging in.,4,email,other
+1000,"I keep getting an error on integration with serviceX screen. Also, Loving the app, notifications works great!",5,web,bug
